@@ -1,0 +1,42 @@
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Providers.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\linda\OneDrive - Universidad Mesoamericana de Guatemala\Documentos\Visual Studio 2012\Projects\MvcMusicStore - Casi terminado CSS\MvcMusicStore\obj\Debug\MvcMusicStore.pdb

@@ -1,0 +1,19 @@
+﻿@model List<MvcMusicStore.Models.Album>
+@{
+    
+    ViewBag.Title = "ASP.NET MVC Music Store";
+}
+<div class="jumbotron" class="text-center" id="promotion">
+</div>
+<h3><em>Lo mas</em> reciente</h3>
+<ul id="album-list">
+    @foreach (var album in Model)
+    {
+        <li><a href="@Url.Action("Details", "Store",
+new { id = album.AlbumId })">
+            <img alt="@album.Title" src="@album.AlbumArtUrl"
+/>
+            <span class="badge badge-pill badge-light">@album.Title</span> </a>
+        </li>
+    }
+</ul>

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Album>
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length <= length) {
+        @input
+    } else {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Bienvenido</h2>
+
+<p>
+    @Html.ActionLink("Crear nuevo album", "Create")
+</p>
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+        <th>
+            Genero
+        </th>
+        <th>
+            Artista
+        </th>
+        <th>
+            Titulo
+        </th>
+        <th>
+            Precio
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genre.Name)
+        </td>
+        <td>
+            @Truncate(item.Artist.Name, 25)
+        </td>
+        <td>
+            @Truncate(item.Title, 25)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.AlbumId }) |
+            @Html.ActionLink("Detalle", "Details", new { id=item.AlbumId }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.AlbumId })
+        </td>
+    </tr>
+}
+
+</table>
